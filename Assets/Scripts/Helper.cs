@@ -71,6 +71,7 @@ public class Helper
     /// <returns>The new name</returns>
     static public string PrettyName(string name)
     {
+        // Assume not more than a 100 agents
         for (int i = 0; i < 100; i++)
         {
             if (name.EndsWith($"({i})"))

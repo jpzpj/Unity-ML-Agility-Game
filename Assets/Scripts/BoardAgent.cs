@@ -5,7 +5,17 @@ using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Sensors;
 using System;
+using Unity.MLAgents.Actuators;
 
+/// <summary>
+/// This uses release 18 of ML-Agents.
+/// To install: 
+/// Github via Package Manager open the Package Manager, hit the "+" button, and select "Add package from git URL".
+/// if the dialog that appears, enter: git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_18
+/// You can also edit your project's manifest.json directly and add the following line to the dependencies section:
+/// "com.unity.ml-agents": "git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_18",
+/// <see cref="https://docs.unity3d.com/Packages/com.unity.ml-agents@2.1/manual/index.html"/>
+/// </summary>
 public class BoardAgent : Agent
 {
     /// <summary>
@@ -63,6 +73,7 @@ public class BoardAgent : Agent
     /// </summary>
     public override void Initialize()
     {
+        GameManager.Instance.AddAgent();
         // Initialize the dictionary
         ballsOnBoard = new Dictionary<int, BallOnBoard>();
         for (int i = 0; i < ballsInGame; i++)
@@ -87,11 +98,11 @@ public class BoardAgent : Agent
     }
 
     /// <summary>
-    /// OnEpisodeBegin is called by ML during the start of a new enpisode
+    /// OnEpisodeBegin is called by ML during the start of a new episode
     /// </summary>
     public override void OnEpisodeBegin()
     {
-        // Set the start rotation of the board, so the balls start moving.
+        // Reset the start rotation of the board
         transform.rotation = new Quaternion(0f, 0f, 0f, 0f);
 
         // The board may be given an initial rotation, however this is not needed
@@ -130,10 +141,10 @@ public class BoardAgent : Agent
     /// Called by ML to perform an action
     /// </summary>
     /// <param name="vectorAction"></param>
-    public override void OnActionReceived(float[] vectorAction)
+    public override void OnActionReceived(ActionBuffers actionBuffers)
     {
-        float actionZ = Mathf.Clamp(vectorAction[0], -1f, 1f);
-        float actionX = Mathf.Clamp(vectorAction[1], -1f, 1f);
+        float actionZ = Mathf.Clamp(actionBuffers.ContinuousActions[0], -1f, 1f);
+        float actionX = Mathf.Clamp(actionBuffers.ContinuousActions[1], -1f, 1f);
 
         // Save the current rotation
         Quaternion currentQuaternionRotation = transform.rotation;
@@ -171,10 +182,11 @@ public class BoardAgent : Agent
     /// Called by ML in case the Behavior Type is Heuristic or in case there is no model
     /// </summary>
     /// <param name="actionsOut"></param>
-    public override void Heuristic(float[] actionsOut)
+    public override void Heuristic(in ActionBuffers actionsOut)
     {
-        actionsOut[0] = Input.GetAxis("Horizontal");  // RotateZ
-        actionsOut[1] = Input.GetAxis("Vertical");    // RotateX
+        var continuousActionsOut = actionsOut.ContinuousActions;
+        continuousActionsOut[0] = Input.GetAxis("Horizontal");  // RotateZ
+        continuousActionsOut[1] = Input.GetAxis("Vertical");    // RotateX
     }
 
     #endregion
@@ -224,15 +236,6 @@ public class BoardAgent : Agent
     private int BallsInArc()
     {
         return ballsOnBoard.Count(x => x.Value.Script.IsInsideArc == true);
-    }
-
-    /// <summary>
-    /// Count the number of balls inside the hotspot
-    /// </summary>
-    /// <returns>The number of balls that are inside the hotspot</returns>
-    private int BallsInHotspot()
-    {
-        return ballsOnBoard.Count(x => x.Value.Script.IsInsideHotspot == true);
     }
     #endregion
 }

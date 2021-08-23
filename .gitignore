@@ -3,6 +3,9 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+*.log
+[Ll]ogs/
+*.bak
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -35,7 +38,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Machine Learning
 ML/
-*.bak
+
+Logs/ApiUpdaterCheck.txt
+Logs/ApiUpdaterCheck.txt
 *.log
-Logs/
+Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Logs/ApiUpdaterCheck.txt
+*.mp4
+*.log

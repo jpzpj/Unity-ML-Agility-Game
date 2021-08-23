@@ -36,8 +36,9 @@ public class BallOnBoard
 
     /// <summary>
     /// The constructor
+    /// Get some objects that form a ball to interact with
     /// </summary>
-    /// <param name="name">The nam eof the ball</param>
+    /// <param name="name">The name of the ball</param>
     /// <param ame="ballGameObject">The Unity gameobject</param>
     public BallOnBoard(string name, GameObject ballGameObject)
     {
@@ -52,6 +53,9 @@ public class BallOnBoard
         this.Score = 0;
     }
 
+    /// <summary>
+    /// Increase the total score of how many times in the gameplay this ball entered the arc
+    /// </summary>
     public void IncreaseScore()
     {
         this.Score++;
