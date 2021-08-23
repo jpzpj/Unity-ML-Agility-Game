@@ -51,12 +51,29 @@ public class BoardAgent : Agent
     /// The maximum speed the ball is moving, needed for normalization of the speed value
     /// </summary>
     private const float maxSpeed = 30;  // Derived during various game plays
+    /// <summary>
+    /// Allows for changing the color
+    /// </summary>
+    MeshRenderer meshRenderer;
+    /// <summary>
+    /// The oroginal color of the board
+    /// </summary>
+    Color originalColor;
+    /// <summary>
+    /// Pause the execution for a while only during playing, not during learning
+    /// </summary>
+    bool paused = false;
+    /// <summary>
+    /// When recoring set to true
+    /// </summary>
+    bool isRecording = true;
 
     /// <summary>
     /// Start is called by Unity before the first frame update
     /// </summary>
     void Start()
     {
+        GameManager.Instance.AddAgent();
     }
 
     /// <summary>
@@ -73,7 +90,9 @@ public class BoardAgent : Agent
     /// </summary>
     public override void Initialize()
     {
-        GameManager.Instance.AddAgent();
+        meshRenderer = GetComponent<MeshRenderer>();
+        originalColor = meshRenderer.material.color;
+
         // Initialize the dictionary
         ballsOnBoard = new Dictionary<int, BallOnBoard>();
         for (int i = 0; i < ballsInGame; i++)
@@ -104,6 +123,8 @@ public class BoardAgent : Agent
     {
         // Reset the start rotation of the board
         transform.rotation = new Quaternion(0f, 0f, 0f, 0f);
+        // reset the original color
+        meshRenderer.material.color = originalColor;
 
         // The board may be given an initial rotation, however this is not needed
         // Training with a level board works fine even when the initial board is rotated
@@ -114,6 +135,7 @@ public class BoardAgent : Agent
         // Put the balls on the board
         foreach (var ball in ballsOnBoard)
         {
+            ball.Value.Script.Initialize();
             ball.Value.Object.SetActive(false);
             ball.Value.Object.transform.position = Helper.RandomBallPosition() + transform.position;
             ball.Value.Object.SetActive(true);
@@ -143,6 +165,9 @@ public class BoardAgent : Agent
     /// <param name="vectorAction"></param>
     public override void OnActionReceived(ActionBuffers actionBuffers)
     {
+        // Allow for a pause in activity e.g. when recording
+        if (paused) return;
+
         float actionZ = Mathf.Clamp(actionBuffers.ContinuousActions[0], -1f, 1f);
         float actionX = Mathf.Clamp(actionBuffers.ContinuousActions[1], -1f, 1f);
 
@@ -224,8 +249,27 @@ public class BoardAgent : Agent
             {
                 b.IncreaseScore();
                 // All done: end the scenario
-                EndEpisode();
+                EndGame();
             }
+        }
+    }
+
+    /// <summary>
+    /// End the current game
+    /// </summary>
+    private void EndGame()
+    {
+        AddReward(1f);
+        Debug.Log($"Play Win");
+        // All done: end the scenario, which is done in the coroutine
+        // but to prevent overhaed also here...
+        if (isRecording)
+        {
+            StartCoroutine(DelayActivationCoroutine());
+        }
+        else
+        {
+            EndEpisode();
         }
     }
 
@@ -236,6 +280,21 @@ public class BoardAgent : Agent
     private int BallsInArc()
     {
         return ballsOnBoard.Count(x => x.Value.Script.IsInsideArc == true);
+    }
+
+    /// <summary>
+    /// Delay execution for a given number of seconds
+    /// </summary>
+    /// <returns></returns>
+    public IEnumerator DelayActivationCoroutine()
+    {
+        if (isRecording)
+            paused = true;
+        // change color to blue
+        meshRenderer.material.color = Color.blue;
+        yield return new WaitForSeconds(5);
+        paused = false;
+        EndEpisode();
     }
     #endregion
 }

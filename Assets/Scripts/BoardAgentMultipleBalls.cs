@@ -133,6 +133,7 @@ public class BoardAgentMultipleBalls : Agent
         transform.rotation = new Quaternion(0f, 0f, 0f, 0f);
         // reset the original color
         meshRenderer.material.color = originalColor;
+
         // The board may be given an initial rotation, however this is not needed
         // Training with a level board works fine even when the initial board is rotated
         // during normal play
