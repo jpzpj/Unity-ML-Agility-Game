@@ -30,5 +30,5 @@ See a video of a game at https://youtu.be/hMxvOkps6Cw (first win is at 00:11)
 ![3Balls](https://user-images.githubusercontent.com/83223936/130617119-5b1075fe-010c-4cca-911d-da597d9ea489.png)
 
 Training (12 million steps) took 500 minutes. It takes the agent an average of 1054 seconds to win. 
-See a video of a game at https://youtu.be/4n_t4zwsSpg. The first 00:05:30 are trimmed. The first when is at 00:10 (actual time at 05:40).
+See a video of a game at https://youtu.be/4n_t4zwsSpg. The first 00:05:30 are trimmed. The first win is at 00:10 (actual time at 05:40).
 Not bad, but Would be nice to improve this. Still I can't win the 3-ball game in less than this time, too frustrating. To improve the ML Agents performance in playing the game it may need a bit of curiosity.
