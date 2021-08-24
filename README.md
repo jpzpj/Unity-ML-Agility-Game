@@ -9,7 +9,7 @@ The game is a agility game, where you have to try to get a ball into an arc by m
 
 This can be very frustrating so I wanted to give it a try with Unity ML-Agents after following the excellent Hummingbirds tutorial by Immersive Limit LLC (see https://learn.unity.com/course/ml-agents-hummingbirds).
 
-The agent moves the board, rotating it to either left, right, forward or backwards and gets a reward when a ball enters the arc.
+The agent moves the board, rotating it either to the left, right, forward or backward and gets a reward when a ball enters the arc.
 
 After several tries I finally succeeded. ML-Agents is able to play the game, with 1 ball, in an average time of less then 6 seconds, amazing.
 
@@ -22,13 +22,13 @@ The training run of 4 million episodes takes about 1 hour on my machine.
 
 ![2Balls](https://user-images.githubusercontent.com/83223936/130447547-ec0f3785-a643-4de3-970d-f509b95037a1.png)
 
-Training (4 million steps) took 147 minutes. To play a game takes an average of 73 seconds.
+Training (4 million steps) took 147 minutes.  It takes the agent an average of 73 seconds.
 See a video of a game at https://youtu.be/hMxvOkps6Cw (first win is at 00:11)
 
 **Three balls**
 
-![3Balls](https://user-images.githubusercontent.com/83223936/130616498-ad4eaa2e-d594-418a-b118-1d8f7a0c12b0.png)
+![3Balls](https://user-images.githubusercontent.com/83223936/130617119-5b1075fe-010c-4cca-911d-da597d9ea489.png)
 
-Training (12 million steps) took 500 minutes. it takes the agent an average of 1054 seconds to win. 
+Training (12 million steps) took 500 minutes. It takes the agent an average of 1054 seconds to win. 
 See a video of a game at https://youtu.be/4n_t4zwsSpg. The first 00:05:30 are trimmed. The first when is at 00:10 (actual time at 05:40).
 Not bad, but Would be nice to improve this. Still I can't win the 3-ball game in less than this time, too frustrating. To improve the ML Agents performance in playing the game it may need a bit of curiosity.
