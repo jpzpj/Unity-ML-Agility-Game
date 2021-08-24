@@ -11,7 +11,7 @@ This can be very frustrating so I wanted to give it a try with Unity ML-Agents a
 
 The agent moves the board, rotating it either to the left, right, forward or backward and gets a reward when a ball enters the arc.
 
-After several tries I finally succeeded. ML-Agents is able to play the game, with 1 ball, in an average time of less then 6 seconds, amazing.
+After several tries I finally succeeded. ML-Agents is able to play the game, with 1 ball, in an average time of less then 6 seconds, amazing. See a video of a game at https://youtu.be/gKZBCa-mwug.
 
 I learned to keep to rewards simpel, I started with a difficult reward schema but the Agent failed to learn. 
 The key to succes was to use the 'Ray Perception Sensor 3D' component. That made a huge difference for the better.
