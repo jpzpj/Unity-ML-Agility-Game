@@ -54,25 +54,33 @@ public class BoardAgent : Agent
     /// <summary>
     /// Allows for changing the color
     /// </summary>
-    MeshRenderer meshRenderer;
+    private MeshRenderer meshRenderer;
     /// <summary>
     /// The oroginal color of the board
     /// </summary>
-    Color originalColor;
+    private Color originalColor;
     /// <summary>
     /// Pause the execution for a while only during playing, not during learning
     /// </summary>
-    bool paused = false;
+    private bool paused = false;
     /// <summary>
-    /// When recoring set to true
+    /// When recording a video or a manual play set this to true, must be false when training
     /// </summary>
-    bool isRecording = true;
+    bool isRecording = false;
 
     /// <summary>
     /// Start is called by Unity before the first frame update
     /// </summary>
     void Start()
     {
+        if (isRecording)
+        {
+            Debug.Log("The board will become blue at a winning game.");
+        }
+        else
+        {
+            Debug.Log("The board will not become blue at a winning game.");
+        }
         GameManager.Instance.AddAgent();
     }
 
