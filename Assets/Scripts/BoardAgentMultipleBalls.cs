@@ -72,14 +72,16 @@ public class BoardAgentMultipleBalls : Agent
     /// <summary>
     /// When recording a video or a manual play set this to true, must be false when training
     /// </summary>
-    bool isRecording = false;
+    bool showEndOfGame = false;
 
     /// <summary>
     /// Start is called by Unity before the first frame update
     /// </summary>
     void Start()
     {
-        if (isRecording)
+        Unity.MLAgents.Policies.BehaviorParameters bp = GetComponent<Unity.MLAgents.Policies.BehaviorParameters>();
+        if (bp.Model != null) showEndOfGame = true;
+        if (showEndOfGame)
         {
             Debug.Log("The board will become blue at a winning game.");
         }
@@ -297,7 +299,7 @@ public class BoardAgentMultipleBalls : Agent
         Debug.Log($"Play Win");
         // All done: end the scenario, which is done in the coroutine
         // but to prevent overhaed also here...
-        if (isRecording)
+        if (showEndOfGame)
         {
             StartCoroutine(DelayActivationCoroutine());
         }
@@ -322,7 +324,7 @@ public class BoardAgentMultipleBalls : Agent
     /// <returns></returns>
     public IEnumerator DelayActivationCoroutine()
     {
-        if (isRecording)
+        if (showEndOfGame)
         paused = true;
         // change color to blue
         meshRenderer.material.color = Color.blue;
