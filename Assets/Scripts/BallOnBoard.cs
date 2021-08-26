@@ -59,5 +59,6 @@ public class BallOnBoard
     public void IncreaseScore()
     {
         this.Score++;
+        GameManager.Instance.IncreaseScore();
     }
 }

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
+using TMPro;
 
 /// <summary>
 /// The gamemanager
@@ -9,6 +10,11 @@ using System.Linq;
 /// </summary>
 public class GameManager : Singleton<GameManager>
 {
+    /// <summary>
+    /// Object to instantiate
+    /// </summary>
+    [SerializeField] TextMeshProUGUI winText;
+
     private int totalScore = 0;
     private int totalAgents = 0;
     private List<string> debugLogs = new List<string>();
@@ -19,6 +25,7 @@ public class GameManager : Singleton<GameManager>
     {
         stopWatch.Start();
         DontDestroyOnLoad(gameObject);
+        winText.text = $"Wins: {totalScore}";
     }
 
     /// <summary>
@@ -30,16 +37,24 @@ public class GameManager : Singleton<GameManager>
     }
 
     /// <summary>
-    /// Collect the scores and add the scores to the total score
+    /// Shows the total score and some details per agent
     /// </summary>
     /// <param name="ballsOnBoard"></param>
-    public void AddScore(Dictionary<int, BallOnBoard> ballsOnBoard)
+    public void ShowScore(Dictionary<int, BallOnBoard> ballsOnBoard)
     {
         foreach (var ball in ballsOnBoard)
         {
-            totalScore += ball.Value.Score;
             debugLogs.Add($"{ball.Value.Name}\t{ball.Value.Score}");
         }
+     }
+
+    /// <summary>
+    /// Increase the total score
+    /// </summary>
+    public void IncreaseScore()
+    {
+        totalScore++;
+        winText.text = $"Wins: {totalScore}";
     }
 
     /// <summary>

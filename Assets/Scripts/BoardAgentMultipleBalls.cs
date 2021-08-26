@@ -97,7 +97,7 @@ public class BoardAgentMultipleBalls : Agent
     /// </summary>
     private void OnApplicationQuit()
     {
-        GameManager.Instance.AddScore(ballsOnBoard);
+        GameManager.Instance.ShowScore(ballsOnBoard);
     }
 
     #region ML

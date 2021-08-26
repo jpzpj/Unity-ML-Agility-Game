@@ -89,7 +89,7 @@ public class BoardAgent : Agent
     /// </summary>
     private void OnApplicationQuit()
     {
-        GameManager.Instance.AddScore(ballsOnBoard);
+        GameManager.Instance.ShowScore(ballsOnBoard);
     }
 
     #region ML
