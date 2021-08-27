@@ -1072,7 +1072,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -2005,7 +2005,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -2911,7 +2911,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -4263,7 +4263,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -4718,7 +4718,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -5220,7 +5220,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -5851,7 +5851,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -6525,7 +6525,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -6805,7 +6805,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -8490,7 +8490,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -10747,7 +10747,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -10966,7 +10966,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -11723,7 +11723,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -12098,7 +12098,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -14370,7 +14370,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball
@@ -14978,7 +14978,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: bc1d28b576f532f4d894c80dda4b6b06, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: AgilityGame1Ball

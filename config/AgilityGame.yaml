@@ -1,5 +1,5 @@
 behaviors:
-  AgilityGame:
+  AgilityGame1Ball:
     trainer_type: ppo
     hyperparameters:
       batch_size: 64
@@ -20,9 +20,9 @@ behaviors:
         gamma: 0.99
         strength: 1.0
     keep_checkpoints: 5
-    max_steps: 4000000
+    max_steps: 2000000
     time_horizon: 1000
-    summary_freq: 12000
+    summary_freq: 10000
   AgilityGame2Balls:
     trainer_type: ppo
     hyperparameters:
@@ -46,7 +46,7 @@ behaviors:
     keep_checkpoints: 5
     max_steps: 4000000
     time_horizon: 1000
-    summary_freq: 12000
+    summary_freq: 10000
   AgilityGame3Balls:
     trainer_type: ppo
     hyperparameters:
@@ -66,10 +66,10 @@ behaviors:
     reward_signals:
       extrinsic:
         gamma: 0.99
-        strength: 1.0
+        strength: 1.0      
     keep_checkpoints: 5
     max_steps: 12000000
     time_horizon: 1000
-    summary_freq: 12000
+    summary_freq: 10000
 
      

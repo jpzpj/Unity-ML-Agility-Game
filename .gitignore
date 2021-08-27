@@ -5,6 +5,7 @@
 [Bb]uilds/
 *.log
 [Ll]ogs/
+[Tt]imers/
 *.bak
 Assets/AssetStoreTools*
 
@@ -49,3 +50,4 @@ Logs/shadercompiler-UnityShaderCompiler.exe0.log
 Logs/ApiUpdaterCheck.txt
 *.mp4
 *.log
+Assets/ML-Agents/Timers/AgilityGameAgent_1_Ball_timers.json

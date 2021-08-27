@@ -328,7 +328,8 @@ public class BoardAgentMultipleBalls : Agent
         paused = true;
         // change color to blue
         meshRenderer.material.color = Color.blue;
-        yield return new WaitForSeconds(5);
+
+        yield return new WaitForSeconds(1.0f * ballsInGame);
         paused = false;
         EndEpisode();
     }

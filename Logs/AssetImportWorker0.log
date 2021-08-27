@@ -171,3 +171,828 @@ System memory in use after: 87.4 MB.
 Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2275.
 Total: 5.989900 ms (FindLiveObjects: 0.326900 ms CreateObjectMapping: 0.173500 ms MarkObjects: 5.374400 ms  DeleteObjects: 0.112000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 17058.684688 seconds.
+  path: Assets/Scenes/AgilityGameAgent_3_Balls.unity
+  artifactKey: Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_3_Balls.unity using Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc3a1167642f702a4034db7e8509ed4') in 0.037005 seconds
+  Import took 0.044456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006579 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.288 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 4.878700 ms (FindLiveObjects: 0.366600 ms CreateObjectMapping: 0.193900 ms MarkObjects: 3.468600 ms  DeleteObjects: 0.847400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006736 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.142 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 5.038900 ms (FindLiveObjects: 0.364200 ms CreateObjectMapping: 0.171100 ms MarkObjects: 3.792900 ms  DeleteObjects: 0.708700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006363 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.115 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 4.662300 ms (FindLiveObjects: 0.318600 ms CreateObjectMapping: 0.172200 ms MarkObjects: 3.474200 ms  DeleteObjects: 0.694900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006477 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.092 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2291.
+Total: 4.627000 ms (FindLiveObjects: 0.452800 ms CreateObjectMapping: 0.201300 ms MarkObjects: 3.270800 ms  DeleteObjects: 0.699800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007481 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.792 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.43 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 8.725400 ms (FindLiveObjects: 0.610200 ms CreateObjectMapping: 0.312100 ms MarkObjects: 7.076900 ms  DeleteObjects: 0.722900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1395.404856 seconds.
+  path: Assets/Scenes/AgilityGameAgent_3_Balls.unity
+  artifactKey: Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_3_Balls.unity using Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f20c59c6974c8a4e52a4baa8d353616') in 0.033564 seconds
+  Import took 0.039807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.025558 seconds.
+  path: Assets/Prefabs/BoardAgentMultipleBalls.prefab
+  artifactKey: Guid(028610e55bee04d40ad3d9d2fe5f9fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/BoardAgentMultipleBalls.prefab using Guid(028610e55bee04d40ad3d9d2fe5f9fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e6751b939c47d00241320838fc1921') in 0.257769 seconds
+  Import took 0.266271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.011087 seconds.
+  path: Assets/Scenes/AgilityGameAgent_3_Balls.unity
+  artifactKey: Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_3_Balls.unity using Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ab8e53e48683914ed38af08a3b7e30') in 0.008899 seconds
+  Import took 0.015594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001740 seconds.
+  path: Assets/Scenes/AgilityGameAgent_3_Balls.unity
+  artifactKey: Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_3_Balls.unity using Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ab8e53e48683914ed38af08a3b7e30') in 0.003800 seconds
+  Import took 0.009603 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006524 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.174 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.6 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 4.758300 ms (FindLiveObjects: 0.354300 ms CreateObjectMapping: 0.184100 ms MarkObjects: 3.509800 ms  DeleteObjects: 0.707300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.308848 seconds.
+  path: Assets/Scenes/AgilityGameAgent_3_Balls.unity
+  artifactKey: Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_3_Balls.unity using Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b5d38c19927d7602b133313fb138dc') in 0.027654 seconds
+  Import took 0.034764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.028432 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de461fc718600bef5506ecf7ee38f6b2') in 0.012530 seconds
+  Import took 0.019271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.235960 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c5d25c45853de369e05047eddae053') in 0.004385 seconds
+  Import took 0.010895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.142705 seconds.
+  path: Assets/Scenes/AgilityGameAgent_3_Balls.unity
+  artifactKey: Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_3_Balls.unity using Guid(38eef9d3cf696404dbe4232890727017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89ce6523f262eb6ad7daf71836c6c60') in 0.004931 seconds
+  Import took 0.011058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.379536 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '392629b578d69114b8955b0eee73897f') in 0.005180 seconds
+  Import took 0.011175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.484444 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67cbfefbd8aa9ac2a42ca4ff99354c29') in 0.007462 seconds
+  Import took 0.013617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 251.163804 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb87c2c4718c2bc896163b59fa73461b') in 0.008044 seconds
+  Import took 0.014198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.009239 seconds.
+  path: Assets/Scenes/AgilityGameAgent.unity
+  artifactKey: Guid(e48b5df000748c84e9286dcc5ebc42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent.unity using Guid(e48b5df000748c84e9286dcc5ebc42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b343337e37925c61c5088437fe4eed') in 0.013566 seconds
+  Import took 0.020227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.748446 seconds.
+  path: Assets/Scenes/AgilityGameAgent.unity
+  artifactKey: Guid(e48b5df000748c84e9286dcc5ebc42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent.unity using Guid(e48b5df000748c84e9286dcc5ebc42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a0ca3f7daf53908fe19c1d432b5894') in 0.005828 seconds
+  Import took 0.014023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.632798 seconds.
+  path: Assets/Scenes/AgilityGameAgent.unity
+  artifactKey: Guid(e48b5df000748c84e9286dcc5ebc42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent.unity using Guid(e48b5df000748c84e9286dcc5ebc42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b9faf8bae4614101d7e04052c969c7') in 0.008080 seconds
+  Import took 0.014460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.685725 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89e034c90a25edf273a89bc16a95c02') in 0.013314 seconds
+  Import took 0.019818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001265 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89e034c90a25edf273a89bc16a95c02') in 0.003987 seconds
+  Import took 0.009852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.308868 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc386e5920796c7a2c6c22d1f6aeab4d') in 0.004972 seconds
+  Import took 0.011503 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.149 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 5.736900 ms (FindLiveObjects: 0.390600 ms CreateObjectMapping: 0.257000 ms MarkObjects: 4.202900 ms  DeleteObjects: 0.884000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.380570 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e3ea5d3b7d1b299c3ff6dea9568c28') in 0.019983 seconds
+  Import took 0.026660 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006503 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2318.
+Total: 4.589400 ms (FindLiveObjects: 0.297200 ms CreateObjectMapping: 0.174000 ms MarkObjects: 3.413200 ms  DeleteObjects: 0.702700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.769806 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4486c50f2f9ca16fba4a872f677adf') in 0.021822 seconds
+  Import took 0.028431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.206409 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc98a91a6791a60166de657b6bf358e5') in 0.004743 seconds
+  Import took 0.010861 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.235 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2322.
+Total: 4.864400 ms (FindLiveObjects: 0.360400 ms CreateObjectMapping: 0.177700 ms MarkObjects: 3.539000 ms  DeleteObjects: 0.784800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007383 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.607 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2326.
+Total: 5.146600 ms (FindLiveObjects: 0.416700 ms CreateObjectMapping: 0.221800 ms MarkObjects: 3.762900 ms  DeleteObjects: 0.742200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 5.081300 ms (FindLiveObjects: 0.329300 ms CreateObjectMapping: 0.258100 ms MarkObjects: 3.747800 ms  DeleteObjects: 0.743700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9325.558550 seconds.
+  path: Assets/MLModels/AgilityGame1Ball3Rays.onnx
+  artifactKey: Guid(bc1d28b576f532f4d894c80dda4b6b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MLModels/AgilityGame1Ball3Rays.onnx using Guid(bc1d28b576f532f4d894c80dda4b6b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27771bee9c939b1e37a54a8377190d50') in 0.127706 seconds
+  Import took 0.134074 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.266 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 4.792600 ms (FindLiveObjects: 0.305900 ms CreateObjectMapping: 0.168300 ms MarkObjects: 3.588800 ms  DeleteObjects: 0.726800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006319 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.150 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2338.
+Total: 4.508900 ms (FindLiveObjects: 0.311000 ms CreateObjectMapping: 0.170500 ms MarkObjects: 3.312600 ms  DeleteObjects: 0.712800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.456 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 5.306100 ms (FindLiveObjects: 0.342300 ms CreateObjectMapping: 0.173100 ms MarkObjects: 4.071500 ms  DeleteObjects: 0.716500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006386 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.121 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 5.185100 ms (FindLiveObjects: 0.386000 ms CreateObjectMapping: 0.211600 ms MarkObjects: 3.503800 ms  DeleteObjects: 1.080100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2313.771121 seconds.
+  path: Assets/MLModels/AgilityGame1Ball.onnx
+  artifactKey: Guid(a6c300e4879f41147badaf50e4acfa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MLModels/AgilityGame1Ball.onnx using Guid(a6c300e4879f41147badaf50e4acfa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ac2a83bc9930ac4f3c4e090c9e6509') in 0.115310 seconds
+  Import took 0.121580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.040013 seconds.
+  path: Assets/Scripts/BoardAgent.cs
+  artifactKey: Guid(4ab1498fc4bc6324a89eeedf99576699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BoardAgent.cs using Guid(4ab1498fc4bc6324a89eeedf99576699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229d51c5824d49b46fe41f3403d1435f') in 0.017575 seconds
+  Import took 0.023712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005087 seconds.
+  path: Assets/Scripts/BoardAgent.cs
+  artifactKey: Guid(4ab1498fc4bc6324a89eeedf99576699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BoardAgent.cs using Guid(4ab1498fc4bc6324a89eeedf99576699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229d51c5824d49b46fe41f3403d1435f') in 0.003255 seconds
+  Import took 0.009785 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006317 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.070 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 4.994600 ms (FindLiveObjects: 0.343600 ms CreateObjectMapping: 0.169000 ms MarkObjects: 3.754200 ms  DeleteObjects: 0.725300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.969090 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026d8b8b23830df5e2a225b95df1bc03') in 0.028157 seconds
+  Import took 0.034254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003585 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026d8b8b23830df5e2a225b95df1bc03') in 0.003944 seconds
+  Import took 0.009424 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007019 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.172 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 5.034800 ms (FindLiveObjects: 0.349900 ms CreateObjectMapping: 0.172600 ms MarkObjects: 3.769700 ms  DeleteObjects: 0.740100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008049 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.086 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 4.642600 ms (FindLiveObjects: 0.347500 ms CreateObjectMapping: 0.172100 ms MarkObjects: 3.385900 ms  DeleteObjects: 0.735200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.165 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 4.685900 ms (FindLiveObjects: 0.316900 ms CreateObjectMapping: 0.167700 ms MarkObjects: 3.488200 ms  DeleteObjects: 0.711100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 15770.322829 seconds.
+  path: Assets/Scenes/AgilityGameAgent_4_Balls.unity
+  artifactKey: Guid(dae0fd13fa41d0f4087028e4d3095fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_4_Balls.unity using Guid(dae0fd13fa41d0f4087028e4d3095fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b529fbe3a77aec01b273ca3707a76a') in 0.033933 seconds
+  Import took 0.040765 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006670 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.078 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 4.825000 ms (FindLiveObjects: 0.318900 ms CreateObjectMapping: 0.187400 ms MarkObjects: 3.498500 ms  DeleteObjects: 0.817700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006439 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.368 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 4.649400 ms (FindLiveObjects: 0.355700 ms CreateObjectMapping: 0.170700 ms MarkObjects: 3.404800 ms  DeleteObjects: 0.715600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.897 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.2 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 5.074700 ms (FindLiveObjects: 0.340700 ms CreateObjectMapping: 0.172900 ms MarkObjects: 3.802800 ms  DeleteObjects: 0.756200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69748.040662 seconds.
+  path: Assets/MLModels/AgilityGame4Balls3Rays.onnx
+  artifactKey: Guid(770812a5f0d103a43916c8d3e4bfb310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MLModels/AgilityGame4Balls3Rays.onnx using Guid(770812a5f0d103a43916c8d3e4bfb310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5f7106b925ebd336ab5bdd2e5a3152') in 0.132071 seconds
+  Import took 0.139605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.492403 seconds.
+  path: Assets/Recordings/animation_Main Camera_001.anim
+  artifactKey: Guid(f9a5e95d0b6d770479356233b23cd8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recordings/animation_Main Camera_001.anim using Guid(f9a5e95d0b6d770479356233b23cd8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8985c473f8a07d452a1b9f24a9858c3e') in 0.017211 seconds
+  Import took 0.058227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013066 seconds.
+  path: Assets/Recordings/animation_Main Camera_001.anim
+  artifactKey: Guid(f9a5e95d0b6d770479356233b23cd8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recordings/animation_Main Camera_001.anim using Guid(f9a5e95d0b6d770479356233b23cd8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8985c473f8a07d452a1b9f24a9858c3e') in 0.004269 seconds
+  Import took 0.009914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.845684 seconds.
+  path: Assets/Scenes/AgilityGameAgent_4_Balls.unity
+  artifactKey: Guid(dae0fd13fa41d0f4087028e4d3095fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_4_Balls.unity using Guid(dae0fd13fa41d0f4087028e4d3095fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0081b4edc66ee34d8794cee68ae259be') in 0.014621 seconds
+  Import took 0.041591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.608484 seconds.
+  path: Assets/Scripts/BallOnBoard.cs
+  artifactKey: Guid(fb77ed35f03a08649889059fdc630571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BallOnBoard.cs using Guid(fb77ed35f03a08649889059fdc630571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662807a4497bc0a1b9e4912599e56bb5') in 0.011508 seconds
+  Import took 0.029665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003092 seconds.
+  path: Assets/Scripts/BallOnBoard.cs
+  artifactKey: Guid(fb77ed35f03a08649889059fdc630571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BallOnBoard.cs using Guid(fb77ed35f03a08649889059fdc630571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '662807a4497bc0a1b9e4912599e56bb5') in 0.002820 seconds
+  Import took 0.008283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.667692 seconds.
+  path: Assets/Scenes/AgilityGameAgent_2_Balls.unity
+  artifactKey: Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_2_Balls.unity using Guid(c520b7ee78d739147b2442631f6cfc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe94ce725d57439e7edbedb1a72a0590') in 0.012452 seconds
+  Import took 0.030053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.393803 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9209d25a4dcd2e2b3a82176c6f287e8') in 0.012167 seconds
+  Import took 0.018498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001747 seconds.
+  path: Assets/Scenes/AgilityGameAgent_1_Ball.unity
+  artifactKey: Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AgilityGameAgent_1_Ball.unity using Guid(31969d09c5eeeef46b30b010331a7e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9209d25a4dcd2e2b3a82176c6f287e8') in 0.003305 seconds
+  Import took 0.009250 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
